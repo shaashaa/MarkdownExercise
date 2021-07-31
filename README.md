@@ -24,6 +24,9 @@ Clean data.<br>
 Missing data.  
 
 ### Features
+1. StandardScaler on X feature
+2. MinMaxScalre on Y feature
+3. Log transform on Z feature
 
 ### Modedlling
 

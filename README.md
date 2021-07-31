@@ -16,9 +16,9 @@ xxxx
 
 ### Data Processing
 
-What I did to explore data.
-Clean data.
-Missing data.
+What I did to explore data.  
+Clean data.  
+Missing data.  
 
 ### Features
 

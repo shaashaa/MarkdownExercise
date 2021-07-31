@@ -18,10 +18,10 @@ Here are my data sources:
 ### Data Dictionary
 
 | Column Name | Description |
-|-----|-----|
+|-|-|
 | Sepal width | This is the Sepal Width |
 | Sepal Length | This is the Sepal Length |
-|---|---|
+
 
 ### Data Processing
 

@@ -51,5 +51,5 @@ def cal_distance(a,b):
 ### Results and Recommendations
 ✈️ Hello  
 
-$$\a \= \b + \c$$
+$$a = b + c$$
 

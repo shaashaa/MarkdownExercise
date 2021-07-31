@@ -48,5 +48,7 @@ def cal_distance(a,b):
   </details>
 
 ### Results and Recommendations
-⚓Hello
-\color{red}x
+✈️ Hello  
+
+$\hat(Y) = \hat{\beta}_{0} + \sum \limits _{j=1} ^{p} 
+

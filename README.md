@@ -36,7 +36,7 @@ What I did to explore data.
 
 ### Modelling
 ```
-def cacl_distance(a,b):
+def cal_distance(a,b):
   return a+b
 ```
 

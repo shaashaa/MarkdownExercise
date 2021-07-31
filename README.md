@@ -7,6 +7,7 @@
 xxxxx
 
 ### Data
+![NATURE](https://user-images.githubusercontent.com/11305696/127727994-d3543f86-3639-4a0b-a792-ef9ed04a5525.jpg)
 
 #### Data Source
 Here are my data sources:  
@@ -50,5 +51,5 @@ def cal_distance(a,b):
 ### Results and Recommendations
 ✈️ Hello  
 
-$$(a)$$
+$$\a \= \b + \c$$
 

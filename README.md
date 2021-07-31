@@ -50,5 +50,5 @@ def cal_distance(a,b):
 ### Results and Recommendations
 ✈️ Hello  
 
-$\hat(Y) = \hat(Y1)$
+$(a)$
 

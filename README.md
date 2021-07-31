@@ -17,11 +17,17 @@ Here are my data sources:
 
 ### Data Dictionary
 
+| Column Name | Description |
+|-----|-----|
+| Sepal width | This is the Sepal Width |
+| Sepal Length | This is the Sepal Length |
+|---|---|
+
 ### Data Processing
 
 What I did to explore data.  
 **Clean data**.<br>
-***Missing data.***  
+***Missing data***.    
 
 ### Features
 1. StandardScaler on X feature

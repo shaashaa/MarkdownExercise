@@ -50,5 +50,5 @@ def cal_distance(a,b):
 ### Results and Recommendations
 ✈️ Hello  
 
-$\hat(Y) = \hat{\beta}_{0} + \sum \limits _{j=1} ^{p}$
+$\hat(Y) = \hat(Y1)$
 
